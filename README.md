@@ -43,3 +43,4 @@ The Hacktivists™ is one of the most trusted and reliable training providers in
 <a href="https://in.linkedin.com/company/thehacktivists" rel="nofollow"><img src="https://raw.githubusercontent.com/TheHacktivism/TheHacktivism/main/images/linkedin1.jpg" alt="Follow us on LinkedIn"  style="max-width:100%;"></a>
 <a href="https://www.facebook.com/TheHacktivism/" rel="nofollow"><img src="https://raw.githubusercontent.com/TheHacktivism/TheHacktivism/main/images/fb1.jpg" alt="Follow us on Facebook"  style="max-width:100%;"></a>
 <a href="https://www.instagram.com/thehacktivists_/" rel="nofollow"><img src="https://raw.githubusercontent.com/TheHacktivism/TheHacktivism/main/images/insta1.jpg" alt="Follow us on Instagram"  style="max-width:100%;"></a>
+<a href="https://www.youtube.com/c/TheHacktivists" rel="nofollow"><img src="https://raw.githubusercontent.com/TheHacktivism/TheHacktivism/main/images/yt1.jpg" alt="Subscribe to our Youtube Channel"  style="max-width:100%;"></a>
